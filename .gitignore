@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Build output (static site generators, if used later)
+/site/
+/_site/
+/dist/
+/build/
+
+# Node (if docs tooling is added later)
+node_modules/
+
+# Environment files
+.env
+.env.local
